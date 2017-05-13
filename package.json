@@ -1,0 +1,19 @@
+{
+  "name": "myboxscore",
+  "version": "1.0.0",
+  "description": "App for creating boxscores on the fly.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dckuehn/MyBoxScore.git"
+  },
+  "author": "dckuehn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dckuehn/MyBoxScore/issues"
+  },
+  "homepage": "https://github.com/dckuehn/MyBoxScore#readme"
+}
